@@ -8,4 +8,10 @@
 </head>
 <body>
     <h1>Hola Mundo</h1>
+    <?php
+        echo "Solucionando conflicto";
+    ?>
+    <footer>
+        Hola Soy el Pie de Pagina
+    </footer>
 </body>
